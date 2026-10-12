@@ -13,4 +13,4 @@ vless://631da6fa-c5d4-11f1-aa40-4ba12c6aa647@87.251.69.241:10004?encryption=none
 vless://b54e03c4-c5d5-11f1-9a54-5f88b28f1eb7@195.123.228.112:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Fateme4-%40v2raynetir
 
 
-
+vless://ef57982c-c5d6-11f1-b8c0-b7641befdb80@212.192.28.46:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#Fateme5-%40v2raynetir
